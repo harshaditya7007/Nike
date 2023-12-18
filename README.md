@@ -5,7 +5,7 @@
 
   <h2 align="center">Reactive Nike Clone</h2>
 
-  A Responsive Nike Clone built using HTML5, CSS3 & JavaScript.
+  A Reactive Nike Clone built using HTML5, CSS3 & JavaScript.
 
   <a href="https://nike-clone-seven-amber.vercel.app/"><strong>Live Demo</strong></a>
 
