@@ -7,7 +7,7 @@
 
   A Responsive Nike Clone built using HTML5, CSS3 & JavaScript.
 
-  <a href="other-assets/Demo.png"><strong>➥ Live Demo</strong></a>
+  <a href="[other-assets/Demo.png](https://nike-clone-seven-amber.vercel.app/)"><strong>➥ Live Demo</strong></a>
 
 </div>
 
