@@ -13,7 +13,7 @@
 
 ### Demo Screeshots
 
-![Responsive Nike Clone Desktop Demo](./assets/Responsive-Ecommerce-Website.png "Desktop Demo")
+![Responsive Nike Clone Desktop Demo](./other-assets/demo.png "FullSite Demo")
 
 
 ### Contact
